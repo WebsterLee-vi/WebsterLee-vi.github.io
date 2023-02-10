@@ -54,11 +54,11 @@ a {
 /* 鼠标图标 */
 
 body {
-  cursor: url(/img/x3.cur), auto;
+  cursor: url(https://gcore.jsdelivr.net/gh/WebsterLee-vi/WebsterLee-vi.github.io@master/img/x3.cur), auto;
 }
 
 a,image {
-  cursor: url(/img/link.cur), auto;
+  cursor: url(https://gcore.jsdelivr.net/gh/WebsterLee-vi/WebsterLee-vi.github.io@master/img/link.cur), auto;
 }
 
 
